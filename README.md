@@ -38,8 +38,16 @@ Spanda tracks these pulses in real time, letting emotions ripple outward — or 
 
 #### 🌈 Color-Coded Vector Display
 Each emotional axis is visualized with glow orbs orbiting each NPC:
-- **Red/Blue**: high-charge polarity (e.g., Love/Hate)
-- **Purple/Yellow**: potential midpoint — emotionally active, ready to shift
+
+- **🔴 Red / 🔵 Blue** — **Polarity Extremes**  
+  - **Red**: Strong positive charge (e.g. love, joy)  
+  - **Blue**: Strong negative charge (e.g. hate, despair)
+
+- **🟡 Yellow** — **Neutral Midpoint**  
+  - Emotionally balanced or inactive on the axis  
+  - Can shift:
+    - **🟢 Green**: Positive deviation (e.g. harmony, courage)  
+    - **🟠 Orange**: Negative deviation (e.g. fear, conflict)
 
 ---
 
