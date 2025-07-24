@@ -2,7 +2,7 @@
 Clone this repo, open `Spanda_Emotional_Reverb_Demo` in **Unity 2022.3.18f1**, and press Play.  
 No extra packages or LFS needed — works out of the box. Pure demo logic. Runs on CPU.
 
-![Spanda Emotional Reverb Demo Screenshot](demo-screenshot.png)
+![Spanda Emotional Reverb Screenshot](screenshot.png)
 ---
 
 # 🌀 Spanda Engine Emotional Resonance Demo (Unity)
